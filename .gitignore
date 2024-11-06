@@ -112,3 +112,5 @@ yarn-error.log
 
 
 vite.config.*.timestamp*
+
+storybook-static
